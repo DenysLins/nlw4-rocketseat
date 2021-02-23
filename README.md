@@ -30,3 +30,4 @@ The following tools were used to build these projects:
 - [Insomnia - Design, and test APIs like a human, not a robot.](https://insomnia.rest/)
 - [React - A JavaScript library for building user interfaces](https://pt-br.reactjs.org/)
 - [Elixir - A dynamic, functional language for building scalable and maintainable applications.](https://elixir-lang.org/)
+- [Ecto - The database wrapper and query generator for Elixir.](https://hexdocs.pm/ecto/Ecto.html)
