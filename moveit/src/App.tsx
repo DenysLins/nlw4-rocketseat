@@ -1,9 +1,9 @@
-import "./App.css";
+import { ExperienceBar } from "./components/ExperienceBar";
 
 function App() {
   return (
-    <div>
-      <h1>Hello World</h1>
+    <div className="container">
+      <ExperienceBar />
     </div>
   );
 }
