@@ -24,7 +24,9 @@ In the React path, we will build a Pomodoro-like app.
 
 The following tools were used to build these projects:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Elixir](https://elixir-lang.org/)
+- [Node.js - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.](https://nodejs.org/en/)
+- [TypeScript - Typed JavaScript at Any Scale.](https://www.typescriptlang.org/)
+- [Express - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
+- [Insomnia - Design, and test APIs like a human, not a robot.](https://insomnia.rest/)
+- [React - A JavaScript library for building user interfaces](https://pt-br.reactjs.org/)
+- [Elixir - A dynamic, functional language for building scalable and maintainable applications.](https://elixir-lang.org/)
