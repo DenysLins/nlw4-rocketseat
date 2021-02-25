@@ -1,4 +1,3 @@
-import Head from "next/head";
 import { ExperienceBar } from "../components/ExperienceBar";
 import { Profile } from "../components/Profile";
 import style from "../styles/pages/Home.module.css";
