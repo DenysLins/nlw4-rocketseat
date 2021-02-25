@@ -16,11 +16,11 @@ In the React path, we will build a Pomodoro-like app.
 
 :construction: This project is under construction :construction:
 
-| Path   |       Day 1        |       Day 2        |       Day 3        | Day 4 | Day 5 |
-| :----- | :----------------: | :----------------: | :----------------: | :---: | :---: |
-| Elixir | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :x:  |  :x:  |
-| Node   | :heavy_check_mark: | :heavy_check_mark: |        :x:         |  :x:  |
-| React  | :heavy_check_mark: |        :x:         |        :x:         |  :x:  |
+|  Path  |       Day 1        |       Day 2        |       Day 3        |       Day 4        |       Day 5        |
+| :----- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Elixir | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
+| Node   | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
+| React  | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |        :x:         |
 
 <br>
 
