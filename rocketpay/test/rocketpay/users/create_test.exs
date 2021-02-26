@@ -1,8 +1,6 @@
 defmodule Rocketpay.CreateTest do
-  use Rocketpay.DataCase
-  alias Ecto.Changeset
+  use Rocketpay.DataCase, async: true
   alias Rocketpay.Users.Create
-  alias Rocketpay.Users
   alias Rocketpay.User
 
   describe "call/1" do
