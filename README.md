@@ -1,24 +1,22 @@
-# Next Level Week 4 - RocketSeat
+# [Next Level Week 4 - RocketSeat](https://nextlevelweek.com/)
 
-## This is my code for [https://nextlevelweek.com/](https://nextlevelweek.com/)
+Next Level Week is an online event promoted by Rocketseat, where, during a week, we can build an app. The fourth edition occurred between 02/22/2021 and 02/26/2021.
 
-<br>
+In the fourth edition, the NLW#4 had three paths based on the following technologies: Elixir, Node and React.
 
-In this edition, the NLW#4 has three paths based on the following technologies: Elixir, Node and React.
+In the Elixir path, we developed a payment API.
 
-In the Elixir path, we will build a payment API.
+In the Node path, built a Net Promoter Score - NPS API.
 
-In the Node path, we will build a Net Promoter Score - NPS API.
-
-In the React path, we will build a Pomodoro-like app.
+And in the React path, we made a Pomodoro-like app.
 
 <br>
 
 :construction: This project is under construction :construction:
 
-|  Path  |       Day 1        |       Day 2        |       Day 3        |       Day 4        |       Day 5        |
+| Path   |       Day 1        |       Day 2        |       Day 3        |       Day 4        |       Day 5        |
 | :----- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| Elixir | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
+| Elixir | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Node   | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
 | React  | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |        :x:         |
 
