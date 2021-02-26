@@ -1,6 +1,4 @@
 import styles from "../styles/components/Profile.module.css";
-import { CompletedChallenges } from "./CompletedChallenges";
-
 export function Profile() {
   return (
     <div className={styles.profileContainer}>
