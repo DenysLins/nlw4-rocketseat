@@ -1,4 +1,5 @@
 import styles from "../styles/components/Profile.module.css";
+import { CompletedChallenges } from "./CompletedChallenges";
 
 export function Profile() {
   return (
@@ -6,7 +7,9 @@ export function Profile() {
       <img src="https://github.com/DenysLins.png" alt="Denys Lins" />
       <div>
         <strong>Denys Lins</strong>
-        <p>Level 1</p>
+        <p>
+          <img src="icons/level.svg" alt="level"></img>Level 1
+        </p>
       </div>
     </div>
   );
