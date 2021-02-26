@@ -1,6 +1,6 @@
 # [Next Level Week 4 - RocketSeat](https://nextlevelweek.com/)
 
-*Next Level Week* is an online event promoted by [Rocketseat](https://rocketseat.com.br/), where, during an entire week, you will build a complete application. The fourth edition occurred between the days 22 and 26 of February 2021.
+_Next Level Week_ is an online event promoted by [Rocketseat](https://rocketseat.com.br/), where, during an entire week, you will build a complete application. The fourth edition occurred between the days 22 and 26 of February 2021.
 
 In the fourth edition, the NLW#4 had three paths based on the following technologies: Elixir, Node and React.
 
@@ -18,7 +18,7 @@ And in the React path, we made a Pomodoro-like app. The code is in the moveit fo
 | :----- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Elixir | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Node   | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
-| React  | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |        :x:         |
+| React  | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
 
 <br>
 
