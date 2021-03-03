@@ -1,12 +1,12 @@
 import { Router } from "express";
-import { UserController } from "./controllers/UserController";
+import { UsersController } from "./controllers/UsersController";
 
 const router = Router();
 
-const userController = new UserController();
+const usersController = new UsersController();
 
 const prefix = "/api";
 
-router.post(`${prefix}/users`, userController.create);
+router.post(`${prefix}/users`, usersController.create);
 
 export { router };
