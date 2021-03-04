@@ -17,7 +17,7 @@ And in the React path, we made a Pomodoro-like app. The code is in the moveit fo
 | Path   |       Day 1        |       Day 2        |       Day 3        |       Day 4        |       Day 5        |
 | :----- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Elixir | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Node   | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
+| Node   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
 | React  | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
 
 <br>
