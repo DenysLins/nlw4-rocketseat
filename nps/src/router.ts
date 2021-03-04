@@ -1,12 +1,17 @@
 import { Router } from "express";
-import { UserController } from "./controllers/UserController";
+import { SurveysController } from "./controllers/SurveysController";
+import { UsersController } from "./controllers/UsersController";
 
 const router = Router();
 
-const userController = new UserController();
+const usersController = new UsersController();
+const surveysController = new SurveysController();
 
 const prefix = "/api";
 
-router.post(`${prefix}/users`, userController.create);
+router.post(`${prefix}/users`, usersController.create);
+
+router.get(`${prefix}/surveys`, surveysController.show);
+router.post(`${prefix}/surveys`, surveysController.create);
 
 export { router };
