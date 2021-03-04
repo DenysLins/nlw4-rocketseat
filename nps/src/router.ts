@@ -10,6 +10,8 @@ const surveysController = new SurveysController();
 const prefix = "/api";
 
 router.post(`${prefix}/users`, usersController.create);
+
+router.get(`${prefix}/surveys`, surveysController.show);
 router.post(`${prefix}/surveys`, surveysController.create);
 
 export { router };
